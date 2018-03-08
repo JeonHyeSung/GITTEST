@@ -1,3 +1,1 @@
-﻿
-﻿testbranch-new
->>>>>>> test
+﻿master new branch
