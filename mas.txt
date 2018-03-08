@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-﻿testbranch-new23
-=======
 ﻿
-﻿testbranch-new
->>>>>>> test
->>>>>>> master
+
+test
