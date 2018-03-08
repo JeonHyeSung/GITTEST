@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ﻿testbranch
 edit master
+=======
+﻿testbranch-new
+>>>>>>> test
