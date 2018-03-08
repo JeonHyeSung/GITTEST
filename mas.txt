@@ -4,4 +4,4 @@ add test
 
 addserver
 
-addma
+add test1
